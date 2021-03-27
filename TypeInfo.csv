@@ -1,0 +1,118 @@
+1,gas,N.A,Natural,Nonmetal,Nonmetal
+2,gas,N.A,Natural,Nonmetal,Noble Gas
+3,solid,N.A,Natural,Metal,Alkali Metal
+4,solid,N.A,Natural,Metal,Alkaline Earth Metal
+5,solid,N.A,Natural,N.A,Metalloid
+6,solid,N.A,Natural,Nonmetal,Nonmetal
+7,gas,N.A,Natural,Nonmetal,Nonmetal
+8,gas,N.A,Natural,Nonmetal,Nonmetal
+9,gas,N.A,Natural,Nonmetal,Halogen
+10,gas,N.A,Natural,Nonmetal,Noble Gas
+11,solid,N.A,Natural,Metal,Alkali Metal
+12,solid,N.A,Natural,Metal,Alkaline Earth Metal
+13,solid,N.A,Natural,Metal,Metal
+14,solid,N.A,Natural,N.A,Metalloid
+15,solid,N.A,Natural,Nonmetal,Nonmetal
+16,solid,N.A,Natural,Nonmetal,Nonmetal
+17,gas,N.A,Natural,Nonmetal,Halogen
+18,gas,N.A,Natural,Nonmetal,Noble Gas
+19,solid,N.A,Natural,Metal,Alkali Metal
+20,solid,N.A,Natural,Metal,Alkaline Earth Metal
+21,solid,N.A,Natural,Metal,Transition Metal
+22,solid,N.A,Natural,Metal,Transition Metal
+23,solid,N.A,Natural,Metal,Transition Metal
+24,solid,N.A,Natural,Metal,Transition Metal
+25,solid,N.A,Natural,Metal,Transition Metal
+26,solid,N.A,Natural,Metal,Transition Metal
+27,solid,N.A,Natural,Metal,Transition Metal
+28,solid,N.A,Natural,Metal,Transition Metal
+29,solid,N.A,Natural,Metal,Transition Metal
+30,solid,N.A,Natural,Metal,Transition Metal
+31,solid,N.A,Natural,Metal,Metal
+32,solid,N.A,Natural,N.A,Metalloid
+33,solid,N.A,Natural,N.A,Metalloid
+34,solid,N.A,Natural,Nonmetal,Nonmetal
+35,liq,N.A,Natural,Nonmetal,Halogen
+36,gas,N.A,Natural,Nonmetal,Noble Gas
+37,solid,N.A,Natural,Metal,Alkali Metal
+38,solid,N.A,Natural,Metal,Alkaline Earth Metal
+39,solid,N.A,Natural,Metal,Transition Metal
+40,solid,N.A,Natural,Metal,Transition Metal
+41,solid,N.A,Natural,Metal,Transition Metal
+42,solid,N.A,Natural,Metal,Transition Metal
+43,artificial,yes,Artificial,Metal,Transition Metal
+44,solid,N.A,Natural,Metal,Transition Metal
+45,solid,N.A,Natural,Metal,Transition Metal
+46,solid,N.A,Natural,Metal,Transition Metal
+47,solid,N.A,Natural,Metal,Transition Metal
+48,solid,N.A,Natural,Metal,Transition Metal
+49,solid,N.A,Natural,Metal,Metal
+50,solid,N.A,Natural,Metal,Metal
+51,solid,N.A,Natural,N.A,Metalloid
+52,solid,N.A,Natural,N.A,Metalloid
+53,solid,N.A,Natural,Nonmetal,Halogen
+54,gas,N.A,Natural,Nonmetal,Noble Gas
+55,solid,N.A,Natural,Metal,Alkali Metal
+56,solid,N.A,Natural,Metal,Alkaline Earth Metal
+57,solid,N.A,Natural,Metal,Lanthanide
+58,solid,N.A,Natural,Metal,Lanthanide
+59,solid,N.A,Natural,Metal,Lanthanide
+60,solid,N.A,Natural,Metal,Lanthanide
+61,artificial,yes,Artificial,Metal,Lanthanide
+62,solid,N.A,Natural,Metal,Lanthanide
+63,solid,N.A,Natural,Metal,Lanthanide
+64,solid,N.A,Natural,Metal,Lanthanide
+65,solid,N.A,Natural,Metal,Lanthanide
+66,solid,N.A,Natural,Metal,Lanthanide
+67,solid,N.A,Natural,Metal,Lanthanide
+68,solid,N.A,Natural,Metal,Lanthanide
+69,solid,N.A,Natural,Metal,Lanthanide
+70,solid,N.A,Natural,Metal,Lanthanide
+71,solid,N.A,Natural,Metal,Lanthanide
+72,solid,N.A,Natural,Metal,Transition Metal
+73,solid,N.A,Natural,Metal,Transition Metal
+74,solid,N.A,Natural,Metal,Transition Metal
+75,solid,N.A,Natural,Metal,Transition Metal
+76,solid,N.A,Natural,Metal,Transition Metal
+77,solid,N.A,Natural,Metal,Transition Metal
+78,solid,N.A,Natural,Metal,Transition Metal
+79,solid,N.A,Natural,Metal,Transition Metal
+80,liq,N.A,Natural,Metal,Transition Metal
+81,solid,N.A,Natural,Metal,Metal
+82,solid,N.A,Natural,Metal,Metal
+83,solid,N.A,Natural,Metal,Metal
+84,solid,yes,Natural,N.A,Metalloid
+85,solid,yes,Natural,Nonmetal,Noble Gas
+86,gas,yes,Natural,Metal,Alkali Metal
+87,solid,yes,Natural,Metal,Alkaline Earth Metal
+88,solid,yes,Natural,Metal,Actinide
+89,solid,yes,Natural,Metal,Actinide
+90,solid,yes,Natural,Metal,Actinide
+91,solid,yes,Natural,Metal,Actinide
+92,solid,yes,Natural,Metal,Actinide
+93,artificial,yes,Artificial,Metal,Actinide
+94,artificial,yes,Artificial,Metal,Actinide
+95,artificial,yes,Artificial,Metal,Actinide
+96,artificial,yes,Artificial,Metal,Actinide
+97,artificial,yes,Artificial,Metal,Actinide
+98,artificial,yes,Artificial,Metal,Actinide
+99,artificial,yes,Artificial,Metal,Actinide
+100,artificial,yes,Artificial,Metal,Actinide
+101,artificial,yes,Artificial,Metal,Actinide
+102,artificial,yes,Artificial,Metal,Actinide
+103,artificial,yes,Artificial,Metal,Actinide
+104,artificial,yes,Artificial,Metal,Transactinide
+105,artificial,yes,Artificial,Metal,Transactinide
+106,artificial,yes,Artificial,Metal,Transactinide
+107,artificial,yes,Artificial,Metal,Transactinide
+108,artificial,yes,Artificial,Metal,Transactinide
+109,artificial,yes,Artificial,Metal,Transactinide
+110,artificial,yes,Artificial,Metal,Transactinide
+111,artificial,yes,Artificial,Metal,Transactinide
+112,artificial,yes,Artificial,Metal,Transactinide
+113,artificial,yes,Artificial,Metal,N.A
+114,artificial,yes,Artificial,Metal,Transactinide
+115,artificial,yes,Artificial,Metal,N.A
+116,artificial,yes,Artificial,Metal,Transactinide
+117,artificial,yes,Artificial,N.A,N.A
+118,artificial,yes,Artificial,N.A,Noble Gas
