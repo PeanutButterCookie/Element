@@ -6,6 +6,7 @@ Python modules:
 > csv
 > mysql.connector
 > tkinter
+> matplotlib
 
 System:
 > Screen Resolution - 1920x1080 recommended
